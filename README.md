@@ -8,4 +8,4 @@ It is expected that when [eWASM](https://github.com/ewasm/design) is implemented
 
 The very rough plans for development at this stage are to become more familiar with the [sharding implementation in Py-EVM](https://github.com/ethereum/py-evm/tree/sharding), then build an implementation in Javascript.
 
-Compensation to developers at this stage can't be offered, as it would depend on some form of revenue, which isn't available at this stage. If revenue is obtained it will be shared accordingly and fairly with a budget.
+Compensation to developers at this stage can't be offered, as it would depend on some form of revenue, which isn't available at this stage. If revenue is obtained it will be shared accordingly and fairly with a budget. (A grant from the Ethereum Foundation has been applied for, as per [this blog post](https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/).)
