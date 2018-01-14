@@ -1,6 +1,6 @@
 # Drops of Diamond
 
-[![Gitter](https://badges.gitter.im/EthereumJS-sharding/Lobby.svg)](https://gitter.im/EthereumJS-sharding/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://gitter.im/Drops-of-Diamond/Lobby.svg)](https://gitter.im/Drops-of-Diamond/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repo is planned to contain an implementation of sharding in Javascript.
 
