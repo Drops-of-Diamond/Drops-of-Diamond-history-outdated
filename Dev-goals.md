@@ -4,3 +4,5 @@
 3. Start building an implementation in Javascript.
 
 Work at least three days a week on this (not spending any more time on reading research docs), while continuing to work two days a week at Sungrow. However, if I receive regular remuneration or donations for this work (you can send donations personally to me at jamesray.eth. A separate multisig account may be set up if other devs commit to the work.) then I will be more inclined to give up the job at Sungrow.
+
+Update: https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/
