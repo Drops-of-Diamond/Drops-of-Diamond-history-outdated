@@ -3,8 +3,10 @@
 2. Continue familiarising with the [Python sharding implementation](https://github.com/ethereum/py-evm/tree/sharding) and [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm).
 3. Start building an implementation in Javascript, forked [here](https://github.com/Drops-of-Diamond/ethereumjs-vm) from [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm).
 4. Raise funds when an MVP is built.
-5. Continue building, maybe hire other devs.
+5. Continue building and probably hire other devs.
 
 Work at least ~~three days a week~~ full-time on this (not spending any more time on reading research docs), ~~while continuing to work two days a week at Sungrow. However, if I receive regular remuneration or donations for this work (you can send donations personally to me at jamesray.eth. A separate multisig account may be set up if other devs commit to the work.) then I will be more inclined to give up the job at Sungrow.~~
 
 Update: https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/
+
+Timesheet: https://docs.google.com/spreadsheets/d/1dDglpWBhWlPyv0tfDntPQc8F-yBsP41wFQnIKgwA068/edit#gid=1029864984
