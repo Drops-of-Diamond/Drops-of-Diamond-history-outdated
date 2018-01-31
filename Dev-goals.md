@@ -1,7 +1,7 @@
 # James' high-level goals
 1. Done: ~~[Learn Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).~~  (I know C++ (going about halfway through learncpp.com) and Python (e.g. Learn Python the Hard Way and https://docs.python.org).)
 2. Continue familiarising with the [Python sharding implementation](https://github.com/ethereum/py-evm/tree/sharding) and [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm).
-3. Start building an implementation in Javascript.
+3. Start building an implementation in Javascript, forked [here](https://github.com/Drops-of-Diamond/ethereumjs-vm) from [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm).
 4. Raise funds when an MVP is built.
 5. Continue building, maybe hire other devs.
 
