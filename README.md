@@ -5,6 +5,8 @@
 
 This repo is an introduction to plans for developing an implementation of sharding in Javascript, with Drops of Diamond. The actual implementation is planned to be developed as a fork of EthereumJS-VM [here](https://github.com/Drops-of-Diamond/ethereumjs-vm), and maintain compatibility with the original repo in order to be potentially be merged with it.
 
+For an introduction to Ethereum, see https://github.com/ethereum/wiki/wiki/Ethereum-introduction.
+
 For an introduction to sharding, see https://github.com/ethereum/sharding/blob/develop/docs/doc.md.
 
 This repo and the Drops of Diamond project it belongs to is not a part of or owned by the Ethereum Foundation, nor is it endorsed by the Foundation. A different project name and logo may be used (the logo could use a more modern design rather than just using a photo in the public domain), and alternative proposals are welcome. The Drops of Diamond project is not legally incorporated as of yet, so legally it is not an organisation. That should be done, but probably only as needed once the project is more well-developed.
