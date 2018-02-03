@@ -1,0 +1,3 @@
+[submodule "ethereumjs-vm"]
+	path = ethereumjs-vm
+	url = https://github.com/Drops-of-Diamond/ethereumjs-vm
