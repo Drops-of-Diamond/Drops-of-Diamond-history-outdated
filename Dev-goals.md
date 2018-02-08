@@ -10,6 +10,4 @@ Work at least ~~three days a week~~ full-time on this (not spending any more tim
 
 Update: https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/
 
-Update 2: drop this project and work on a sharding implementation for eWASM, or finish building eWASM. https://gitter.im/Drops-of-Diamond/Lobby?at=5a7abc54f283b8e5462dda48
-
 Timesheet: https://docs.google.com/spreadsheets/d/1dDglpWBhWlPyv0tfDntPQc8F-yBsP41wFQnIKgwA068/edit#gid=1029864984
