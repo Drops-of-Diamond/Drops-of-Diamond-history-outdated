@@ -3,7 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/Drops-of-Diamond/Drops-of-Diamond/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Drops-of-Diamond/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This repo is no longer planned to be improved, since there is already an implementation under way to develop sharding with [Nimbus](https://docs.google.com/document/d/14u65XVNLOd83cq3t7wNC9UPweZ6kPWvmXwRTWWn0diQ/edit?ts=5a7c1fd2#heading=h.neozr341c9fa). This repo was an introduction to plans for developing an implementation of sharding in Web Assembly, with Drops of Diamond. The actual implementation is planned to be developed as a fork of eWASM [here](https://github.com/ewasm/evm2wasm), and maintain compatibility with the original repo in order to be potentially be merged with it.
+This repo is no longer planned to be improved, since there is already an implementation under way to develop sharding with [Nimbus](https://docs.google.com/document/d/14u65XVNLOd83cq3t7wNC9UPweZ6kPWvmXwRTWWn0diQ/edit?ts=5a7c1fd2#heading=h.neozr341c9fa), an implementation in Nim, which compiles to C++, and is therefore usable for [Hera](https://github.com/ewasm/hera), an "eWASM virtual machine conforming to the Ethereum VM C API".
+
+This repo was an introduction to plans for developing an implementation of sharding in Web Assembly, with Drops of Diamond. The actual implementation is planned to be developed as a fork of eWASM [here](https://github.com/ewasm/evm2wasm), and maintain compatibility with the original repo in order to be potentially be merged with it.
 
 For an introduction to Ethereum, see https://github.com/ethereum/wiki/wiki/Ethereum-introduction.
 
