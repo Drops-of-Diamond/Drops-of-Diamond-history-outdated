@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/Drops-of-Diamond/Drops-of-Diamond/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Drops-of-Diamond/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+See https://github.com/Drops-of-Diamond/parity/blob/Sharding/Sharding-info.md. Future updates will be posted there or on Gitter and Twitter.
+
 Update 26 Feb 2018: after comparing Rust and C++, and Parity and cppethereum, Rust and Parity seem like better options. Rust has advantages such as better memory safety, while it also is compatible with Wasm. More details are here: https://gitter.im/ewasm/Lobby?at=5a92381135dd17022eedc444. Additionally, [Go is not compatible with Wasm at present](https://github.com/golang/go/issues/18892), so [Go-ethereum isn't either](https://github.com/ethereum/go-ethereum/issues/16192).
 
 Update 22 Feb 2018: my plans are to work on a stateless sharding implementation to integrate with Hera, EWasm and cppethereum. I decided not to go with Nimbus because an implementation developed with my current plan would be more performant. I have been reading through the Wasm spec, after that I plan to familiarise myself with EWasm, Hera, finish learning C++ (I got about halfway through a year ago) and cppethereum, as well as ethereum tests, other implementations, particularly py-evm. (I've already familiarised myself with the [sharding repo](https://github.com/ethereum/sharding)).
